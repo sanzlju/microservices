@@ -1,0 +1,9 @@
+[submodule "car-service"]
+	path = car-service
+	url = https://github.com/sanzlju/car-service.git
+[submodule "bike-service"]
+	path = bike-service
+	url = https://github.com/sanzlju/bike-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/sanzlju/user-service.git
