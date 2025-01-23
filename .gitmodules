@@ -7,3 +7,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/sanzlju/user-service.git
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/sanzlju/config-service.git
